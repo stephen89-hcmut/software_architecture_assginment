@@ -1,0 +1,32 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.log
+*.cache
+__pycache__/
+.pytest_cache/
+
+# Generated diagrams and exports
+docs/deliverables/*.html
+docs/deliverables/*.docx
+docs/deliverables/*.zip
+docs/deliverables/.rendered/
+
