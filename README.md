@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment M1 — TMC: tài liệu học, phân tích và hướng dẫn agent
 
 Bộ tài liệu giúp bạn hiểu Assignment M1 và giúp agent tạo một báo cáo thiết kế có đủ yêu cầu, lập luận và architectural views dựa trên nguồn môn học. Nội dung chính bằng tiếng Việt, giữ thuật ngữ tiếng Anh để đối chiếu slide/sách.
@@ -110,3 +111,6 @@ Bộ hiện tại là tài liệu chuẩn bị và hướng dẫn, **chưa phả
 Khi có trả lời cho open questions hoặc giảng viên cập nhật đề, cập nhật summary trước, sau đó điều chỉnh rule/workflow và các minh họa bị ảnh hưởng. Khi có đặc tả M2, giữ ranh giới yêu cầu theo mốc; không thay ngầm phạm vi M1 bằng suy đoán về M2.
 
 Trước khi bàn giao một lần chỉnh sửa, kiểm tra link nội bộ, source/page references, mọi khối Mermaid, manifest skill và consistency giữa các view. Kết quả kiểm tra cấu trúc tài liệu không thay cho đánh giá kiến trúc hoặc kiểm thử ứng dụng.
+=======
+# software_architecture_assginment
+>>>>>>> 58f8a70abb48a679557b8afba189478dcff17f60
